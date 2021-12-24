@@ -7,3 +7,6 @@
 [submodule "TJHSST-Foundations-CS"]
 	path = TJHSST-Foundations-CS
 	url = https://github.com/anishs37/TJHSST-Foundations-CS
+[submodule "TJHSST-APCS"]
+	path = TJHSST-APCS
+	url = https://github.com/anishs37/TJHSST-APCS
