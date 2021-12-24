@@ -1,0 +1,9 @@
+[submodule "TJHSST-AI"]
+	path = TJHSST-AI
+	url = https://github.com/anishs37/TJHSST-AI
+[submodule "TJHSST-Web-Dev"]
+	path = TJHSST-Web-Dev
+	url = https://github.com/anishs37/TJHSST-Web-Dev
+[submodule "TJHSST-Foundations-CS"]
+	path = TJHSST-Foundations-CS
+	url = https://github.com/anishs37/TJHSST-Foundations-CS
