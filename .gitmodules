@@ -10,3 +10,9 @@
 [submodule "TJHSST-APCS"]
 	path = TJHSST-APCS
 	url = https://github.com/anishs37/TJHSST-APCS
+[submodule "TJHSST-AI-2"]
+	path = TJHSST-AI-2
+	url = https://github.com/anishs37/TJHSST-AI-2
+[submodule "TJHSST-Mobile-Dev"]
+	path = TJHSST-Mobile-Dev
+	url = https://github.com/anishs37/TJHSST-Mobile-Dev
